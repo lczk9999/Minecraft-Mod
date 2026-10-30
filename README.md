@@ -39,7 +39,11 @@ to make the laser beam work but in the end it worked out
 and I managed to do the Ticks to avoid crashes or lag in the world,
 it was really an experience.
 
-<img width="1912" height="1078" alt="image" src="https://github.com" />
+<br>
+<p align="center">
+  <img src="https://github.com" alt="image" width="80%" />
+</p>
+<br>
 
 # Language and things used to make the Mod
 
@@ -67,7 +71,11 @@ Emerald: gives Invisibility
 Diamond: gives a super defense
 Netherite: is the strongest among all where it gives strength life and makes you release fire particles
 
-<img width="1896" height="1035" alt="image" src="https://github.com" />
+<br>
+<p align="center">
+  <img src="https://github.com" alt="image" width="80%" />
+</p>
+<br>
 
 # Helps and the part where they were most used
 
