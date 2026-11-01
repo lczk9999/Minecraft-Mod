@@ -1,6 +1,6 @@
 # Minecraft ore mod 
 
-Minecraft ore mod This is my Minecraft mod in a simple and clear way, and it is a mod made for the Hack Craft contest where I made a mod that some ores give powers, each one a different power to the players. The way to get them is by taking the ores and smelting them and holding them in the main hand. If you want to levitate, have super strength, extra life, shoot laser beams, or become invisible, run fast, or have very high resistance, this mod does everything. Oh, just one important thing for you who are reading, I used Google Translate to translate into English, it might have gotten a bit strange because it changes the meaning of certain words.
+Minecraft ore mod This is my Minecraft mod in a simple and clear way, and it is a mod made for the Hack club contest where I made a mod that some ores give powers, each one a different power to the players. The way to get them is by taking the ores and smelting them and holding them in the main hand. If you want to levitate, have super strength, extra life, shoot laser beams, or become invisible, run fast, or have very high resistance, this mod does everything. Oh, just one important thing for you who are reading, I used Google Translate to translate into English, it might have gotten a bit strange because it changes the meaning of certain words.
 
 # Mod creation process
 
